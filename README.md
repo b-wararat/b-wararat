@@ -4,6 +4,6 @@
 👩🏻‍🎓 I study Mathematics at Burapha University.<br/>
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=b-wararat&show_icons=true&theme=gotham" alt="b-wararat" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=b-wararat&show_icons=true&theme=radical" alt="b-wararat" />
 
 
