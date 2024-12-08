@@ -3,7 +3,7 @@
 # 👋 Hi, I'm B!
 👩🏻‍🎓 I study Mathematics at Burapha University.<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=b-wararat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=b-wararat&show_icons=true&theme=gotham" alt="b-wararat" />
 
 
