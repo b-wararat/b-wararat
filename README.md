@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
-# B's Portfolio
-
-👋 Hi, I'm **B**!  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=b-wararat&show_icons=true&theme=radical" alt="b-wararat" />
+  
+## 👋 Hi, I'm **B**!  
 I am currently studying **Mathematics** at **Burapha University**.  
 I have a passion for backend development and I'm constantly learning and improving my skills.  
 
@@ -23,6 +23,6 @@ You can explore more about me and my projects through my portfolio website:
 - [Portfolio Website](https://b-wararat.netlify.app/)
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=b-wararat&show_icons=true&theme=radical" alt="b-wararat" />
+
 
 
